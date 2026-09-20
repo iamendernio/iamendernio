@@ -5,5 +5,7 @@ The laziest person ever 😼
 gd modder 🥀
 I love making cheats sometimes
 Rust, C++, C# and a little bit Java developer (but I kinda hate C++ cause it sucks)
-Contact me: ilya.endernio@gmail.com or discord: endernio  
+Contact me: ilya.endernio@gmail.com or discord: endernio
+
+cat 🐈‍⬛ 
 ```
