@@ -1,5 +1,5 @@
 ```text
-Hihihi! I'm Ilya (as if you don't read my name already)
+Hi my name is Ilya (as if you don't read my name already)
 I'm 16
 The laziest person ever 😼
 gd modder 🥀
