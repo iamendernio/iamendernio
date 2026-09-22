@@ -3,7 +3,6 @@ Hi my name is Ilya (as if you don't read my name already)
 I'm 16
 The laziest person ever 😼
 gd modder 🥀
-I love making cheats and reverse something sometimes
 Rust, C++, C# and a little bit Java developer (but I kinda hate C++ cause it sucks)
 Contact me: ilya.endernio@gmail.com or discord: endernio
 
