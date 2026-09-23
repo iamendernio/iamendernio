@@ -1,10 +1,11 @@
 ```text
-Hi my name is Ilya (as if you don't read my name already)
-I'm 16
-The laziest person ever 😼
-gd modder 🥀
-Rust, C++, C# and a little bit Java developer (but I kinda hate C++ cause it sucks)
-Contact me: ilya.endernio@gmail.com or discord: endernio
 
-cat 🐈‍⬛ 
+Im 16
+the laziest person you can find in this world 😼
+gd modder
+rust, c++, c# and a little bit java enthusiast (but I kinda hate c++ cause it sucks)
+contact me: ilya.endernio@gmail.com or discord: endernio
+
+cat 🐈‍⬛ 🐈‍⬛ 🐈‍⬛ 🐈‍⬛ 🐈‍⬛ 
+😼😼😼😼😼😼😼😼
 ```
