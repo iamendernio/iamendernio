@@ -11,7 +11,7 @@ and I'm 16 years old I'm into modding some stuff and cheat dev-ing
 
 ---
 
-![int](int (2).png)
+<img src="int (2).png" width="250" alt="int">
 
  
 
