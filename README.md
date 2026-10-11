@@ -1,10 +1,11 @@
-```text
-Im 16
-the laziest person you can find in this world 😼
-gd modder
-rust, c++, c# and a little bit java enthusiast (but I kinda hate c++ cause it sucks)
-contact me: ilya.endernio@gmail.com or discord: iamendernio
+# I'm Ilya
+ and I'm 16 years old, modder and cheat dev
+### What do I know?
+ C++ but to be honest I don't like it 
+ Rust and C# 
+ And a little bit of Java
+### Contact:
+ Discord: iamendernio
+ Email: ilya.endernio@gmail.com
+ ---
 
-cat 🐈‍⬛ 🐈‍⬛ 🐈‍⬛ 🐈‍⬛ 🐈‍⬛ 
-😼😼😼😼😼😼😼😼
-```
