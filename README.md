@@ -1,10 +1,10 @@
-# Haii I'm Ilya <img src="spin-dashie-nobg.gif" width="30">
+# Hi I'm Ilya <img src="spin-dashie-nobg.gif" width="30">
 
 <img src="spin-dashie-nobg.gif" width="120">
 
-### What do I know
-* **C++** but I don't like it
-* **Rust** & **C#**
+### FUCK C++
+* aaaaaaa
+* Rust
 * <img src="spin-dashie-nobg.gif" width="35"> a little bit
 
 ### Contact:
